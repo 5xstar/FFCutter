@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af06d1ff-a4bc-478b-b3a7-1acab5a274a0" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Configure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/FFCTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/FFCutter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/FFCutterProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/FFCutterStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/FFCutterUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Help.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/MainFrameProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/MainFrameStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/MediaPartFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/MediaPartFactoryStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/MediaProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/MediaStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/PlayerProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/PlayerStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/PlayerUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/StringHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cmd/CmdExecuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/constant/MediaConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/constant/MediaConstProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/constant/PubConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/FFCutterAbstractImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/FFCutterUIProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/HighlightAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JDisplayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JDisplayImplProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JFFCTextDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JFFCTextDisplayProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JFFCTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JFFCutter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JFFCutterStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JKeywordDisplayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JMainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JMainFrameImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JMainFrameImplProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JMainFrameImplStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/JTextContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/KeywordDisplayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/cutter/swing/MyJMenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/domains/ButtonAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/domains/FileKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/domains/FileMediaInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/domains/Keeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/domains/MediaInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/domains/MediaPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/file/FFCFileFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/file/GetFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/file/GetFileProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/file/MyFileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/PlayerAbstractImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/PlayerUIProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/PlayerUIStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/VLCJPlayerBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/EqualizerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/EqualizerFrameProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/PlayerVideoAdjustPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/PlayerVideoAdjustPanelProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/SliderControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/VLCJJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/VLCJJFrameAWTCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/VLCJJFrameAWTPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/player/swing/VLCJPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/util/MediaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/util/NetUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/_5xstar/ffcutter/util/VLCJUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/parameters.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zh-CN.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2b3rsQEw2TDqgPDd5Mq6jQ95DpG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/5xstar/FFCutter/src/main/java/com/_5xstar/ffcutter/player&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\5xstar\FFCutter\src\main\java\com\_5xstar\ffcutter\player" />
+      <recent name="D:\5xstar\FFCutter\src\main\java\com\_5xstar\ffcutter" />
+      <recent name="D:\5xstar\FFCutter\src\main\resources\com\_5xstar\ffcutter\player" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com._5xstar.ffcutter.player" />
+      <recent name="com._5xstar.ffcutter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com._5xstar.ffcutter.cutter.swing" />
+      <recent name="com._5xstar.ffcutter.constant" />
+      <recent name="com._5xstar.ffcutter.util" />
+      <recent name="com._5xstar.ffcutter" />
+      <recent name="com._5xstar.ffcutter.player.swing" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._5xstar.ffcutter.Main" />
+      <module name="FFCutter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._5xstar.ffcutter.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="af06d1ff-a4bc-478b-b3a7-1acab5a274a0" name="变更" comment="" />
+      <created>1705454815629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705454815629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
